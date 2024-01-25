@@ -1,0 +1,29 @@
+{
+  "ignition": {
+    "version": "3.0.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel"
+        ],
+        "name": "wheels",
+        "passwordHash": "$y$j9T$ni9DzbZFdd9yXBKJLLCGw/$DIUyZrvjkVYv3NTMqnCPxUK4arS4ydUjbtKETvaMyX7",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDtUzOGmva59toK3bSN35DBDAn/KBZxo/ckACE/FGLgJxekcVHNBrSJsP4ncf75ZJHNOLEMcQt8QGZY6yRqkKOAHZV4dCsSOI8OlTDHIClE99vs5S95BaVVxAgCKY/4rFD8CHqeRJTmRb9RGxHSiGC/EUg07esVREReePGrRd6hW6tED3DKE9SFMG/1YX75mqjtHdpY29yZ9U37lYIp6/Qu8pcp+sFqfrv96jU/oKD/6lA7bSuQGi8Ax9wPq7S7RKUc10UCWjAMI3cyLZDgWKJBiy51ReLHZ5AuQsGT1V9L+NOB1UrozCK8/wZBUeTPO49XQMVg/JYCil/MrUoyCg64jQMjjWHrYFC7FuqAsJeckc8OVq3z1nWrKsA2MiKiYXLggRCi31g4j9WToHvczHvXF9Wfv+gAu9ZjOSc0BskmAMarBqWD/qr7HtKmRNJDqQJxoUNu/Tg0HFZafWnulpL9sCdJ9UfAjYMc8su/XO5jUINsvN0IyYF1qHtKHQNCxlk="
+        ]
+      },
+      {
+        "groups": [
+          "wheel"
+        ],
+        "name": "core",
+        "passwordHash": "$y$j9T$ni9DzbZFdd9yXBKJLLCGw/$DIUyZrvjkVYv3NTMqnCPxUK4arS4ydUjbtKETvaMyX7",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDtUzOGmva59toK3bSN35DBDAn/KBZxo/ckACE/FGLgJxekcVHNBrSJsP4ncf75ZJHNOLEMcQt8QGZY6yRqkKOAHZV4dCsSOI8OlTDHIClE99vs5S95BaVVxAgCKY/4rFD8CHqeRJTmRb9RGxHSiGC/EUg07esVREReePGrRd6hW6tED3DKE9SFMG/1YX75mqjtHdpY29yZ9U37lYIp6/Qu8pcp+sFqfrv96jU/oKD/6lA7bSuQGi8Ax9wPq7S7RKUc10UCWjAMI3cyLZDgWKJBiy51ReLHZ5AuQsGT1V9L+NOB1UrozCK8/wZBUeTPO49XQMVg/JYCil/MrUoyCg64jQMjjWHrYFC7FuqAsJeckc8OVq3z1nWrKsA2MiKiYXLggRCi31g4j9WToHvczHvXF9Wfv+gAu9ZjOSc0BskmAMarBqWD/qr7HtKmRNJDqQJxoUNu/Tg0HFZafWnulpL9sCdJ9UfAjYMc8su/XO5jUINsvN0IyYF1qHtKHQNCxlk="
+        ]
+      }
+    ]
+  }
+}
